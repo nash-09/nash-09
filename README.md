@@ -1,45 +1,61 @@
 ### 👋 Hello! I'm Niranjan Barupal (aka nash-09)
 
-🚀 A passionate self-taught frontend web developer from Rajasthan, India  
-🎓 BCA graduate | Currently building cool web apps using HTML, CSS, and JavaScript  
-🎯 Goal: Becoming a professional web developer and working on real-world projects
+🚀 Frontend Developer from Rajasthan, India  
+🎓 BCA Graduate | Passionate about clean UI & smooth user experiences  
+🎯 Building real-world web apps and learning modern frameworks like React & Tailwind
 
 ---
 
-### 🔧 Skills & Tools
-- 💻 Languages: HTML, CSS, JavaScript
-- 🌐 Web Dev: Responsive Design, DOM Manipulation, APIs
-- 🛠️ Tools: VS Code, Git, GitHub, Netlify
-- 🎨 UI: Clean & minimal web design
+## 🧠 Tech Stack
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-### 📌 Pinned Projects
-Here are a few of my projects that I’ve built recently:
+## 📌 Pinned Projects
 
 - 🎮 **[Rock-Paper-Scissors Game](https://github.com/nash-09/Rock-Paper-Scissors-Game)**  
-  A simple, interactive game with score tracking and visual feedback using JavaScript.
+  A simple JavaScript-based game with score tracking and UI feedback.
 
 - 🌦️ **[Weather Forecast App](https://github.com/nash-09/Weather-Forecast-App)**  
-  Uses a real-time weather API to fetch data and display results with search functionality.
+  Fetches real-time data using an API and displays it in a clean UI.
 
 - 🏍️ **[Bike Showroom Website](https://github.com/nash-09/Bike-Showroom-Website)**  
-  A multi-brand showroom-style website with dedicated pages for top bike brands.
+  Multi-brand bike website using HTML, CSS, JS — responsive and clean.
 
 ---
 
-### 📈 GitHub Stats
+## 📊 GitHub Stats
 
 ![nash-09's GitHub stats](https://github-readme-stats.vercel.app/api?username=nash-09&show_icons=true&theme=tokyonight)
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=nash-09&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nash-09&layout=compact&theme=tokyonight)
+
 ---
 
-### 📫 Connect with Me
+## 🌱 Currently Learning
+
+- ReactJS
+- Tailwind CSS
+- Building responsive UI & real-world projects
+- Hosting with GitHub Pages & Netlify
+
+---
+
+## 📫 Connect with Me
 
 - 📍 Beawar, Rajasthan  
 - 📧 Email: niranjanbarupal182@gmail.com
-- 🌐 [LinkedIn](https://linkedin.com/) *(add your link if you have one)*
+- 🌐 LinkedIn: 
 
 ---
 
-Thanks for visiting! 😊
+Thanks for visiting my profile! 😊
